@@ -41,3 +41,6 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+# ipynb checkpoints
+**/*.ipynb_checkpoints/
