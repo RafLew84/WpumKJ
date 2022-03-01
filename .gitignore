@@ -44,3 +44,6 @@ Backup of *.doc*
 
 # ipynb checkpoints
 **/*.ipynb_checkpoints/
+
+# rodo
+oceny*
