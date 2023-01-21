@@ -23,7 +23,7 @@ fun main(args: Array<String>) {
                     content.append("id: ").append(it.id).append("\n")
                         .append("UserId: ").append(it.userId).append("\n")
                         .append("title: ").append(it.title).append("\n")
-                        .append("body: ").append(it.title).append("\n\n")
+                        .append("body: ").append(it.content).append("\n\n")
                     println(content)
                 }
             } else {
