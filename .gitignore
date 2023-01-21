@@ -70,3 +70,6 @@ Untitled.ipynb
 2022-2023/sourcecode/Lab9-Retrofit2-Kotlin/build/kotlin/Lab9Retrofit2Kotlin10SNAPSHOTjar-classes.txt
 2022-2023/sourcecode/Lab9-Retrofit2-Kotlin/gradle/wrapper/gradle-wrapper.properties
 2022-2023/sourcecode/Lab9-Retrofit2-Kotlin/gradlew
+*.lock
+*.bin
+*.probe
