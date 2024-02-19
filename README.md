@@ -1,6 +1,16 @@
 # WpumKJ
  Wstęp do Programowania Urządzeń Mobilnych - Java, Kotlin
 
+ |Lista|Termin|
+ |:------:|:-----:|
+ |[Lista 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%201.ipynb)|05.03.2024 - wt, 06.03.2024 - śr|
+ |[Lista 2](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%202.ipynb)|26.03.2024 - wt, 27.03.2024 - śr|
+ |[Lista 3](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%203.ipynb)|23.04.2024 - wt, 24.04.2024 - śr|
+ |[Lista 4](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%204.ipynb)|07.05.2024 - wt, 08.05.2024 - śr|
+ |Lista 5 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Kotlin.ipynb)|14.05.2024 - wt, 15.05.2024 - śr|
+ | Lista 6 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Kotlin.ipynb) |28.05.2024 - wt, 29.05.2024 - śr|
+ |[Lista 7](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%207.ipynb)|11.06.2024 - wt, 12.06.2024 - śr|
+
 |Wykład|Zawartość|Laboratorium|Lista|
 |:-------:|:--------|:-----:|:-----:|
 |[Wykład 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad1.pdf)| - podstawowe informacje <br> - treści programowe <br> - warunki zaliczenia |**Lab 1** <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Laboratorium/Lab1%20-%20Java.ipynb) <br> [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Laboratorium/Lab1%20-%20Kotlin.ipynb)| [Lista 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%201.ipynb)|
