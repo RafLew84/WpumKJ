@@ -5,9 +5,139 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06707543-e25c-4869-b88d-49497c26581a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Wykład/Wyklad10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Wykład/Wyklad10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wykład/Wyklad11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Wykład/Wyklad11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wykład/Wyklad13.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Wykład/Wyklad13.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wykład/Wyklad5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Wykład/Wyklad5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/7.4.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/7.4.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/classes/kotlin/main/META-INF/untitled1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/kotlin/untitled110SNAPSHOTjar-classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/kotlin/Main.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +154,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Lab9-Retrofit2-Kotlin" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -49,7 +174,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rlewa/Documents/ZAJECIA/WpumKJ/2022-2023/sourcecode/Lab9-Retrofit2-Kotlin&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rlewandkow/Desktop/ZAJECIA/WpumKJ/2022-2023/sourcecode/Lab9-Retrofit2-Kotlin&quot;
   }
 }</component>
   <component name="RunManager">

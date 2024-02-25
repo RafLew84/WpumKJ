@@ -1,6 +1,35 @@
 # WpumKJ
  Wstęp do Programowania Urządzeń Mobilnych - Java, Kotlin
 
+ |Lista|Termin|
+ |:------:|:-----:|
+ |[Lista 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%201.ipynb)|05.03.2024 - wt, 06.03.2024 - śr|
+ |[Lista 2](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%202.ipynb)|26.03.2024 - wt, 27.03.2024 - śr|
+ |[Lista 3](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%203.ipynb)|23.04.2024 - wt, 24.04.2024 - śr|
+ |[Lista 4](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%204.ipynb)|07.05.2024 - wt, 08.05.2024 - śr|
+ |Lista 5 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Kotlin.ipynb)|14.05.2024 - wt, 15.05.2024 - śr|
+ | Lista 6 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Kotlin.ipynb) |28.05.2024 - wt, 29.05.2024 - śr|
+ |[Lista 7](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%207.ipynb)|11.06.2024 - wt, 12.06.2024 - śr|
+
+|Wykład|Zawartość|Laboratorium|Lista|
+|:-------:|:--------|:-----:|:-----:|
+|[Wykład 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad1.pdf)| - podstawowe informacje <br> - treści programowe <br> - warunki zaliczenia |**Lab 1** <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Laboratorium/Lab1%20-%20Java.ipynb) <br> [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Laboratorium/Lab1%20-%20Kotlin.ipynb)| [Lista 1](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%201.ipynb)|
+|[Wykład 2](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad2.pdf)| - Garbage Collector <br> | |
+|[Wykład 3](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad3.ipynb)| - Podstawy języków Java i Kotlin <br> - Typy zerowalne <br> - `val` vs `var` | | [Lista 2](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%202.ipynb) |
+|[Wykład 4](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad4.ipynb)| - Klasy <br> - Pola i metody <br> - Konstruktor <br> - Konstruktor główny (kotlin) <br> - Konstruktory drugorzędne (kotlin) <br> - Modyfikatory dostępu | |  |
+|[Wykład 5](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad5.ipynb)| - Równość obiektów <br> - Porónanie strukturalne <br> - Porównanie referencyjne <br> - `compareTo` | |  |
+|[Wykład 6](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad6.ipynb)| - Kolekcje <br> - Listy <br> - Zbiory <br> - Mapy  | |  [Lista 3](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%203.ipynb) |
+|[Wykład 7](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad7.ipynb)| - Operacje na kolekcjach <br> - Wyrażenia lambda <br> - `filter`, `groupingBy`, `forEach`, `removeIf` <br> - `map`, `fold`, `reduce` <br> - `flatten` <br> - `chunked`, `windowed` <br> - Strumienie (Java)  | |  [Lista 4](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%204.ipynb) |
+|[Wykład 8](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad8.ipynb)| - Dziedziczenie <br> - inicjalizacja późna `lateinit` (kotlin) <br> - inicjalizacja leniwa `by lazy` (java) <br> - Klasy otwarte <br> - Klasy abstrakcyjne <br> - Klasy zagnieżdżone <br> - Klasy wewnętrzne <br> - Klasy zapieczętowane <br> - typ wyliczeniowy - Interfejsy <br> - Metody interfejsów <br> - Dziedziczenie interfejsów <br> - Interfejs funkcyjny <br> - Interfejs znacznikowy <br> - Konstruktor `SAM` (kotlin) | |  Lista 5 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%205%20-%20Kotlin.ipynb) |
+|[Wykład 9](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad9.ipynb)| - Generyki <br> - Klasy generyczne <br> - Funkcje generyczne <br> - Interfejsy generyczne <br> - Granice <br> - Klasy kowariantne <br> - Klasy Kontrawariantne <br> - Klasy inwariantne <br> - Projekcje `\*` |  | Lista 6 <br> [Java](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Java.ipynb), [Kotlin](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%206%20-%20Kotlin.ipynb) |
+|[Wykład 10](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad10.ipynb)| - Wzorce Projektowe <br> - Singleton <br> - Delegaty (kotlin) <br> - Budowniczy <br> - Obserwator  | | |
+|[Wykład 11](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad11.ipynb)| - Wielowątkowość <br> - Klasa `Thread` <br> - Interfejs `Runnable` <br> - Widoczność <br> - Klasy atomowe <br> - `synchronized` <br> - `ThreadPool` <br> - `BlockingQueue`  |  | [Lista 7](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Listy/Lista%207.ipynb) |
+|[Wykład 12](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad12.ipynb)| - Wielowątkowość <br> - `Executor` <br> - `Executors` <br> - `ExecutorService` <br> - `Callable` <br> - `Future`  |  | |  brak |
+|[Wykład 13, 14](https://github.com/RafLew84/WpumKJ/blob/main/2023-2024/Wyk%C5%82ad/Wyklad13.ipynb)| - Wielowątkowość <br> - `Coroutines` (kotlin) <br> - `Dispatcher` <br> - `Job` <br> - `launch` <br> - `async` <br> - `Context` <br> - `suspend fun`  |  | |
+
+# Archiwum:
+
+## 2022/2023
 
 |Wykład|Zawartość|Laboratorium|Zawatość|Lista|
 |:-------:|:--------|:-----:|:-----|:-----:|
@@ -20,8 +49,6 @@
 |[Wykład 14](https://github.com/RafLew84/WpumKJ/blob/main/2022-2023/Wyk%C5%82ad/Wyklad14.ipynb)| - Wielowątkowość <br> - `Coroutines` (kotlin) <br> - `Dispatcher` <br> - `Job` <br> - `launch` <br> - `async` <br> - `Context` <br> - `suspend fun`  |**Lab 14**  | |  [Lista 7](https://github.com/RafLew84/WpumKJ/blob/main/2022-2023/Listy/Lista7.ipynb) |
 
 ----------------------------
-
-# Archiwum:
 
 ## 2021/2022
 
